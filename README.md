@@ -17,4 +17,4 @@ The script reads an image in grayscale, computes the probability distribution of
 To use this script, you need to have an image file named 'image.jpg' in the same directory as the script. You can run the script with the following command:
 
 ```bash
-python entropy_calculator.py
+python entropy_nanocomposite.py
